@@ -1,0 +1,16 @@
+.courses {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+
+.card {
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 20px;
+  width: 250px;
+
+}
